@@ -14,6 +14,7 @@ background-color: #F3F2F5;
   padding-bottom: 30px;
   text-align: center;
   color: black;
+  font-display: auto;
   margin-bottom: 80px;
 }
 
@@ -21,16 +22,19 @@ h1{
   color:black;
   font-family: sans-serif;
   font-size: 40px;
+  font-display: auto;
 }
 
 h4{
    font-size: 20px;
    font-family: sans-serif;
+   font-display: auto;
 }
 
 p{
   font-size:14px;
   font-family: sans-serif;
+  font-display: auto;
 }
 
 .card{
@@ -45,6 +49,7 @@ p{
   margin-bottom: 20px;
   background-color: white;
   float:left;
+  font-display: auto;
   text-align: center;
 }
 
